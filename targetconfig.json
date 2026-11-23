@@ -1,0 +1,373 @@
+
+{
+    "packages": {
+        "approvedRepoLib": {
+            "microsoft/pxt-neopixel": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ],
+                "preferred": true
+            },
+            "microsoft/pxt-microturtle": {
+                "tags": [
+                    "All",
+                    "Software"
+                ],
+                "preferred": true
+            },
+            "microsoft/pxt-sonar": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ],
+                "preferred": true
+            },
+            "microsoft/pxt-bluetooth-temperature-sensor": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Networking",
+                    "Drivers"
+                ],
+                "upgrades": [
+                    "dv:mbcodal"
+                ]
+            },
+            "microsoft/pxt-bluetooth-midi": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ],
+                "upgrades": [
+                    "dv:mbcodal"
+                ]
+            },
+            "microsoft/pxt-max6675": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "microsoft/pxt-midi": {
+                "tags": [
+                    "All",
+                    "Software"
+                ]
+            },
+            "microsoft/pxt-radio-blockchain": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ]
+            },
+            "microsoft/pxt-bluetooth-max6675": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Networking",
+                    "Drivers"
+                ],
+                "upgrades": [
+                    "dv:mbcodal"
+                ]
+            },
+            "microsoft/pxt-ws2812b": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "microsoft/pxt-apa102": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "microsoft/pxt-radio-firefly": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ]
+            },
+            "microsoft/pxt-ml": {
+                "tags": [
+                    "All",
+                    "Software"
+                ]
+            },
+            "makecode-extensions/i2clcd1602": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/oled12864_i2c": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/ds1307": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/scrolltext": {
+                "tags": [
+                    "All",
+                    "Lights and Display"
+                ]
+            },
+            "makecode-extensions/whaleysansfont": {
+                "tags": [
+                    "All",
+                    "Lights and Display"
+                ]
+            },
+            "makecode-extensions/bmp280": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/tm1637": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/bmp180": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/bh1750": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/apds9930": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/at24xx": {
+                "tags": [
+                    "All",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/bme280": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/tm1650": {
+                "tags": [
+                    "All",
+                    "Lights and Display",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/ntc": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/ds1302": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/stts751": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/lsm6dso": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/lps22": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/lis2dw12": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/lis2mdl": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "makecode-extensions/hts221": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ]
+            },
+            "microsoft/expressivepixelsmakecode": {
+                "tags": [
+                    "All",
+                    "Lights and Display"
+                ]
+            },
+            "microsoft/pxt-jacdac": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ],
+                "upgrades": [
+                    "move:jacdac/pxt-jacdac"
+                ],
+                "hidden": true
+            },
+            "microsoft/pxt-data-streamer": {
+                "tags": [
+                    "All",
+                    "Software"
+                ]
+            },
+            "microbit-foundation/pxt-microbit-v2-power": {
+                "tags": [
+                    "All",
+                    "Software"
+                ]
+            },
+            "microbit-foundation/pxt-sound-level-db": {
+                "tags": [
+                    "All",
+                    "Science",
+                    "Drivers"
+                ],
+                "upgrades": [
+                    "min:v0.1.13"
+                ]
+            },
+            "microbit-foundation/makecode-tutorials": {
+                "tags": [
+                    "All"
+                ],
+                "tutorial": true
+            },
+            "microsoft/microbit-robot": {
+                "tags": [
+                    "All",
+                    "Robotics",
+                    "Drivers"
+                ]
+            }
+        },
+        "builtinExtensionsLib": {
+            "li-blocks-robodrive": {
+                "tags": [
+                    "All",
+                    "Robotics",
+                    "Drivers"
+                ],
+                "preferred": true
+            },
+            "li-blocks-motor-mb": {
+                "tags": [
+                    "All",
+                    "Robotics",
+                    "Drivers"
+                ],
+                "preferred": true
+            },
+            "bluetooth": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ],
+                "preferred": true
+            },
+            "radio": {
+                "tags": [
+                    "All",
+                    "Networking"
+                ],
+                "preferred": true
+            },
+            "datalogger": {
+                "tags": [
+                    "All"
+                ],
+                "preferred": true
+            }
+        },
+        "approvedEditorExtensionUrls": [
+            "https://microsoft.github.io/ml4f/"
+        ],
+        "extensionsToolboxDisallowDelete": []
+    },
+    "galleries": {
+        "Projects - Beginner": "examples",
+        "Projects - Intermediate": "examples-intermediate",
+        "Projects - Advanced": "examples-advanced"
+    },
+    "teachertool": {
+        "showSharePageEvalButton": true,
+        "defaultChecklistUrl": "teachertool/checklists/general-code-quality.json",
+        "carousels": [
+            {
+                "title": "Checklists for Tutorials",
+                "cardsUrl": "teachertool/carousels/checklists-for-tutorials/cards.json"
+            },
+            {
+                "title": "Checklists for V2 Tutorials",
+                "cardsUrl": "teachertool/carousels/checklists-for-tutorials-v2/cards.json"
+            },
+            {
+                "title": "Checklists for Games",
+                "cardsUrl": "teachertool/carousels/checklists-for-games/cards.json"
+            },
+            {
+                "title": "Checklists for Tools",
+                "cardsUrl": "teachertool/carousels/checklists-for-tools/cards.json"
+            }
+        ]
+    },
+    "electronManifest": {
+        "latest": "v9.0.8"
+    }
+}

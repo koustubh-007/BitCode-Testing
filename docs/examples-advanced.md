@@ -1,0 +1,322 @@
+# Project Advanced
+
+Here are some Advanced projects for your @boardname@!
+
+## Project Advanced
+```codecard
+[
+  {
+    "name": "Light alarm - Sensor",
+    "description": "Use your micro:bit as a light sensor to protect something precious. It measures the light level and sends a radio message to another micro:bit when the lights turn on or off.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/8d3b13741cb45f770f8f75b3c9e5a79168f7f424-2097x1538.png?auto=format&fit=max&q=80&w=653",
+    "url": "/examples/light-alarm-sensor",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/light-alarm-sensor",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/light-alarm-sensor",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "LED display",
+      "Light sensor",
+      "Radio",
+      "Sound",
+      "Communication",
+      "Energy",
+      "Iteration",
+      "Light",
+      "Relational operators",
+      "Selection",
+      "Sensors"
+    ]
+  },
+  {
+    "name": "Light alarm - Alarm",
+    "description": "Build a wireless alarm that reacts when another micro:bit detects a change in light. When the lights turn on, it displays an angry face and plays an alarm melody.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/8d3b13741cb45f770f8f75b3c9e5a79168f7f424-2097x1538.png?auto=format&fit=max&q=80&w=653",
+    "url": "/examples/light-alarm-receiver",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/light-alarm-receiver",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/light-alarm-receiver",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "LED display",
+      "Light sensor",
+      "Radio",
+      "Sound",
+      "Communication",
+      "Energy",
+      "Iteration",
+      "Light",
+      "Relational operators",
+      "Selection",
+      "Sensors"
+    ]
+  },
+  {
+    "name": "Energy cost calculator",
+    "description": "Measure how long a light stays on using the micro:bit light sensor, then calculate the electricity cost based on your bulb's wattage and energy price.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/d9dccd8ea33638dc949ece42187772aaf7d266dd-800x600.png?bg=fff&w=232&h=174&q=90&fit=min&auto=format",
+    "url": "/examples/energy-cost-calculator",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/energy-cost-calculator",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/energy-cost-calculator",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Buttons",
+      "LED display",
+      "Light sensor",
+      "13 Climate",
+      "Input/output",
+      "Sensors",
+      "Variables"
+    ]
+  },
+  {
+    "name": "Fireflies",
+    "description": "Create a network of glowing fireflies using multiple micro:bits. Press button A to send a flash over radio, triggering nearby micro:bits to flash after a random delay. Some devices retransmit the message to spread the effect.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/29db6119a95e0e233e647dca5584d42b92fadc14-790x634.jpg?rect=0,20,790,593&bg=fff&w=232&h=174&q=90&fit=min&auto=format",
+    "url": "/examples/fireflies",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/fireflies",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/fireflies",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "LED display",
+      "Radio",
+      "Communication",
+      "Randomisation",
+      "Selection"
+    ]
+  },
+  {
+    "name": "Energy light timer",
+    "description": "Use the micro:bit light sensor to track how long a light stays switched on. Press button B to display the total time in minutes, including the current ON period.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/e98475bc48ae51cb4fc20fbdd261a84102aa02c5-800x600.png?bg=fff&w=232&h=174&q=90&fit=min&auto=format",
+    "url": "/examples/energy-light-timer",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/energy-light-timer",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/energy-light-timer",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Buttons",
+      "LED display",
+      "Light sensor",
+      "13 Climate",
+      "Boolean logic",
+      "Input/output",
+      "Sensors",
+      "Variables"
+    ]
+  },
+  {
+    "name": "Audible rock, paper, scissors",
+    "description": "Play rock, paper, scissors with your micro:bit! Shake to randomly select rock, paper or scissors. See your result on the LED display and hear a unique sound for each selection.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/04922e2d8367f0a412f528a73d4e3c5a634a5451-1024x600.jpg?w=653&q=80&fit=max&auto=format",
+    "url": "/examples/audible-rock-paper-scissors",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/audible-rock-paper-scissors",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/audible-rock-paper-scissors",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Accelerometer",
+      "LED display",
+      "Sound",
+      "Randomisation",
+      "Selection",
+      "Variables"
+    ]
+  },
+  {
+    "name": "10 steps counter",
+    "description": "Turn your micro:bit into a simple step counter! Shake it to count your steps. When you reach 10, the micro:bit plays a celebratory melody and displays your count.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/0c3c8c227e0acaf77803cd6f4f9f822483cf0dcb-1024x600.jpg?w=653&q=80&fit=max&auto=format",
+    "url": "/examples/10-steps-counter",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/10-steps-counter",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/10-steps-counter",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Accelerometer",
+      "LED display",
+      "Sound",
+      "Variables"
+    ]
+  },
+  {
+    "name": "Guitar 1 - touch tunes",
+    "description": "Turn your micro:bit into a touch-controlled musical instrument! Touch Pin 1 to play Ode to Joy and Pin 2 to play a Blues melody.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/5b3d9d921ace6336850a936e5f41f8aae809466e-2516x3174.jpg?rect=0,643,2516,1887&bg=fff&w=232&h=174&q=90&fit=min&auto=format",
+    "url": "/examples/guitar-1-touch-tunes",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/guitar-1-touch-tunes",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/guitar-1-touch-tunes",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Pins",
+      "Sound",
+      "Composition",
+      "Electricity",
+      "Electronics",
+      "Input/output"
+    ]
+  },
+  {
+    "name": "Guitar 2 - chords",
+    "description": "Turn your micro:bit into a touch-controlled guitar! Touch Pin 1 or Pin 2 to play a sequence of three notes and create different musical chord patterns.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/ad6cfd1848a3f6dc7839084a617e7ee1318188ef-2532x3067.png?w=653&q=80&fit=max&auto=format",
+    "url": "/examples/guitar-2-chords",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/guitar-2-chords",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/guitar-2-chords",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Pins",
+      "Sound",
+      "Electricity",
+      "Electronics",
+      "Harmony",
+      "Sequence"
+    ]
+  },
+  {
+    "name": "Guitar 3 - octaves",
+    "description": "Experiment with musical octaves using your micro:bit! Touch Pin 1 or Pin 2 to play different note sequences. Press A to lower the notes by an octave or B to raise them by an octave.",
+    "imageUrl": "https://cdn.sanity.io/images/ajwvhvgo/production/ad6cfd1848a3f6dc7839084a617e7ee1318188ef-2532x3067.png?w=653&q=80&fit=max&auto=format",
+    "url": "/examples/guitar-3-octaves",
+    "cardType": "example",
+    "editor": "blocks",
+    "otherActions": [
+      {
+        "url": "/examples/guitar-3-octaves",
+        "editor": "py",
+        "cardType": "example",
+        "label": "Open in Python"
+      },
+      {
+        "url": "/examples/guitar-3-octaves",
+        "editor": "js",
+        "cardType": "example",
+        "label": "Open in JavaScript"
+      }
+    ],
+    "tags": [
+      "Pins",
+      "Sound",
+      "Arithmetic operators",
+      "Division",
+      "Electricity",
+      "Electronics",
+      "Harmony",
+      "Multiplication",
+      "Variables"
+    ]
+  }
+]
+```

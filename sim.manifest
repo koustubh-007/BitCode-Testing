@@ -1,19 +1,19 @@
 CACHE MANIFEST
 
 CACHE:
-/pxtsim.js
-/sim.js
+/BitCode-Testing/pxtsim.js
+/BitCode-Testing/sim.js
 
-/sounds/giggle.wav
-/sounds/happy.wav
-/sounds/hello.wav
-/sounds/mysterious.wav
-/sounds/sad.wav
-/sounds/slide.wav
-/sounds/soaring.wav
-/sounds/spring.wav
-/sounds/twinkle.wav
-/sounds/yawn.wav
+/BitCode-Testing/sounds/giggle.wav
+/BitCode-Testing/sounds/happy.wav
+/BitCode-Testing/sounds/hello.wav
+/BitCode-Testing/sounds/mysterious.wav
+/BitCode-Testing/sounds/sad.wav
+/BitCode-Testing/sounds/slide.wav
+/BitCode-Testing/sounds/soaring.wav
+/BitCode-Testing/sounds/spring.wav
+/BitCode-Testing/sounds/twinkle.wav
+/BitCode-Testing/sounds/yawn.wav
 
 NETWORK:
 *

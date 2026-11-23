@@ -3,52 +3,52 @@
 
     // This line gets patched up by the cloud
     var pxtConfig = {
-    "relprefix": "/",
+    "relprefix": "/BitCode-Testing/",
     "verprefix": "",
-    "workerjs": "/worker.js",
-    "monacoworkerjs": "/monacoworker.js",
-    "gifworkerjs": "/gifjs/gif.worker.js",
-    "serviceworkerjs": "/serviceworker.js",
-    "typeScriptWorkerJs": "/tsworker.js",
+    "workerjs": "/BitCode-Testing/worker.js",
+    "monacoworkerjs": "/BitCode-Testing/monacoworker.js",
+    "gifworkerjs": "/BitCode-Testing/gifjs/gif.worker.js",
+    "serviceworkerjs": "/BitCode-Testing/serviceworker.js",
+    "typeScriptWorkerJs": "/BitCode-Testing/tsworker.js",
     "pxtVersion": "13.2.5",
     "pxtRelId": "localDirRelId",
-    "pxtCdnUrl": "/",
-    "commitCdnUrl": "/",
-    "blobCdnUrl": "/",
-    "cdnUrl": "/",
+    "pxtCdnUrl": "/BitCode-Testing/",
+    "commitCdnUrl": "/BitCode-Testing/",
+    "blobCdnUrl": "/BitCode-Testing/",
+    "cdnUrl": "/BitCode-Testing/",
     "targetVersion": "0.0.0",
     "targetRelId": "",
     "targetUrl": "",
     "targetId": "microbit",
-    "simUrl": "/simulator.html",
-    "simserviceworkerUrl": "/simulatorserviceworker.js",
-    "simworkerconfigUrl": "/workerConfig.js",
-    "partsUrl": "/siminstructions.html",
-    "runUrl": "/run.html",
-    "docsUrl": "/docs.html",
-    "multiUrl": "/multi.html",
-    "asseteditorUrl": "/asseteditor.html",
+    "simUrl": "/BitCode-Testing/simulator.html",
+    "simserviceworkerUrl": "/BitCode-Testing/simulatorserviceworker.js",
+    "simworkerconfigUrl": "/BitCode-Testing/workerConfig.js",
+    "partsUrl": "/BitCode-Testing/siminstructions.html",
+    "runUrl": "/BitCode-Testing/run.html",
+    "docsUrl": "/BitCode-Testing/docs.html",
+    "multiUrl": "/BitCode-Testing/multi.html",
+    "asseteditorUrl": "/BitCode-Testing/asseteditor.html",
     "isStatic": true,
-    "kioskUrl": "/kiosk.html",
-    "teachertoolUrl": "/teachertool.html",
-    "tutorialtoolUrl": "/tutorialtool.html",
-    "skillmapUrl": "/skillmap.html",
-    "multiplayerUrl": "/multiplayer.html",
-    "authcodeUrl": "/authcode.html"
+    "kioskUrl": "/BitCode-Testing/kiosk.html",
+    "teachertoolUrl": "/BitCode-Testing/teachertool.html",
+    "tutorialtoolUrl": "/BitCode-Testing/tutorialtool.html",
+    "skillmapUrl": "/BitCode-Testing/skillmap.html",
+    "multiplayerUrl": "/BitCode-Testing/multiplayer.html",
+    "authcodeUrl": "/BitCode-Testing/authcode.html"
 };
 
     var scripts = [
-        "/highlight.js/highlight.pack.js",
-        "/marked/marked.min.js",
+        "/BitCode-Testing/highlight.js/highlight.pack.js",
+        "/BitCode-Testing/marked/marked.min.js",
     ]
 
     if (typeof jQuery == "undefined")
-        scripts.unshift("/jquery.js")
+        scripts.unshift("/BitCode-Testing/jquery.js")
     if (typeof jQuery == "undefined" || !jQuery.prototype.sidebar)
-        scripts.push("/semantic.js")
+        scripts.push("/BitCode-Testing/semantic.js")
     if (!window.pxtTargetBundle)
-        scripts.push("/target.js");
-    scripts.push("/pxtembed.js");
+        scripts.push("/BitCode-Testing/target.js");
+    scripts.push("/BitCode-Testing/pxtembed.js");
 
     var pxtCallbacks = []
 

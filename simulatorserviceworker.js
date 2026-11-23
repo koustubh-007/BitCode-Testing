@@ -9,8 +9,8 @@ function initSimulatorServiceWorker() {
     const simUrls = [
         // This is the URL loaded in the simulator iframe (includes ref)
         `@simUrl@`,
-        `/pxtsim.js`,
-        `/sim.js`,
+        `/BitCode-Testing/pxtsim.js`,
+        `/BitCode-Testing/sim.js`,
     ];
     const allFiles = simUrls.map(url => url.trim())
         .filter(url => !!url && url.indexOf("@") !== 0);

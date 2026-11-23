@@ -1,86 +1,86 @@
 CACHE MANIFEST
 
 CACHE:
-/semantic.js
-/main.js
-/pxtapp.js
-/typescript.js
-/marked/marked.min.js
-/highlight.js/highlight.pack.js
-/jquery.js
-/pxtlib.js
-/pxtcompiler.js
-/pxtpy.js
-/pxteditor.js
-/pxtsim.js
-/pxtembed.js
-/pxtworker.js
-/pxtweb.js
-/blockly.css
-/semantic.css
-/rtlsemantic.css
+/BitCode-Testing/semantic.js
+/BitCode-Testing/main.js
+/BitCode-Testing/pxtapp.js
+/BitCode-Testing/typescript.js
+/BitCode-Testing/marked/marked.min.js
+/BitCode-Testing/highlight.js/highlight.pack.js
+/BitCode-Testing/jquery.js
+/BitCode-Testing/pxtlib.js
+/BitCode-Testing/pxtcompiler.js
+/BitCode-Testing/pxtpy.js
+/BitCode-Testing/pxteditor.js
+/BitCode-Testing/pxtsim.js
+/BitCode-Testing/pxtembed.js
+/BitCode-Testing/pxtworker.js
+/BitCode-Testing/pxtweb.js
+/BitCode-Testing/blockly.css
+/BitCode-Testing/semantic.css
+/BitCode-Testing/rtlsemantic.css
 
 
-/editor.js
-/fieldeditors.js
+/BitCode-Testing/editor.js
+/BitCode-Testing/fieldeditors.js
 
 # blockly
-/blockly/media/sprites.png
-/blockly/media/click.mp3
-/blockly/media/disconnect.wav
-/blockly/media/delete.mp3
+/BitCode-Testing/blockly/media/sprites.png
+/BitCode-Testing/blockly/media/click.mp3
+/BitCode-Testing/blockly/media/disconnect.wav
+/BitCode-Testing/blockly/media/delete.mp3
 
 # monaco; keep in sync with webapp/public/index.html
-/vs/loader.js
-/vs/base/worker/workerMain.js
-/vs/basic-languages/bat/bat.js
-/vs/basic-languages/cpp/cpp.js
-/vs/basic-languages/python/python.js
-/vs/basic-languages/typescript/typescript.js
-/vs/basic-languages/markdown/markdown.js
-/vs/editor/editor.main.css
-/vs/editor/editor.main.js
-/vs/editor/editor.main.nls.js
-/vs/language/json/jsonMode.js
-/vs/language/json/jsonWorker.js
-/vs/language/typescript/tsMode.js
-/vs/language/typescript/tsWorker.js
+/BitCode-Testing/vs/loader.js
+/BitCode-Testing/vs/base/worker/workerMain.js
+/BitCode-Testing/vs/basic-languages/bat/bat.js
+/BitCode-Testing/vs/basic-languages/cpp/cpp.js
+/BitCode-Testing/vs/basic-languages/python/python.js
+/BitCode-Testing/vs/basic-languages/typescript/typescript.js
+/BitCode-Testing/vs/basic-languages/markdown/markdown.js
+/BitCode-Testing/vs/editor/editor.main.css
+/BitCode-Testing/vs/editor/editor.main.js
+/BitCode-Testing/vs/editor/editor.main.nls.js
+/BitCode-Testing/vs/language/json/jsonMode.js
+/BitCode-Testing/vs/language/json/jsonWorker.js
+/BitCode-Testing/vs/language/typescript/tsMode.js
+/BitCode-Testing/vs/language/typescript/tsWorker.js
 
 # charts
-/smoothie/smoothie_compressed.js
-/images/Bars_black.gif
+/BitCode-Testing/smoothie/smoothie_compressed.js
+/BitCode-Testing/images/Bars_black.gif
 
 # gifjs
-/gifjs/gif.js
+/BitCode-Testing/gifjs/gif.js
 
 # ai
-/ai.0.js
+/BitCode-Testing/ai.0.js
 
-/worker.js
-/monacoworker.js
+/BitCode-Testing/worker.js
+/BitCode-Testing/monacoworker.js
 
-# ver Mon Nov 23 2026 21:38:35 GMT+0530 (India Standard Time)
+# ver Mon Nov 23 2026 22:14:31 GMT+0530 (India Standard Time)
 
 # target
-/docs\static\providers\github-mark.png
-/docs\static\providers\microsoft-logo.svg
-/docs\static\providers\google-logo.svg
-/docs\static\providers\clever-logo.png
-/docs\static\bitcode-logo.png
-/docs\static\bitcode-favicon.png
-/docs\static\Lib-Logos\PNGs\LI_Blocks_TBG_V_WT.png
-/docs\static\download\transfer.png
-/docs\static\download\connect-microbit.gif
-/docs\static\download\full-reset.gif
-/docs\static\download\selecting-microbit.gif
-/docs\static\download\successfully-paired.png
-/docs\static\download\incompatible.png
-/docs\static\download\device-forgotten.gif
-/docs\static\download\browser-unpair-image.gif
-/docs\static\winapp.PNG
-/docs\static\profile\microbit-cloud.png
+/BitCode-Testing/docs\static\providers\github-mark.png
+/BitCode-Testing/docs\static\providers\microsoft-logo.svg
+/BitCode-Testing/docs\static\providers\google-logo.svg
+/BitCode-Testing/docs\static\providers\clever-logo.png
+/BitCode-Testing/docs\static\bitcode-logo.png
+/BitCode-Testing/docs\static\bitcode-favicon.png
+/BitCode-Testing/docs\static\Lib-Logos\PNGs\LI_Blocks_TBG_V_WT.png
+/BitCode-Testing/docs\static\download\transfer.png
+/BitCode-Testing/docs\static\download\connect-microbit.gif
+/BitCode-Testing/docs\static\download\full-reset.gif
+/BitCode-Testing/docs\static\download\selecting-microbit.gif
+/BitCode-Testing/docs\static\download\successfully-paired.png
+/BitCode-Testing/docs\static\download\incompatible.png
+/BitCode-Testing/docs\static\download\device-forgotten.gif
+/BitCode-Testing/docs\static\download\browser-unpair-image.gif
+/BitCode-Testing/docs\static\winapp.PNG
+/BitCode-Testing/docs\static\profile\microbit-cloud.png
 
-/target.js
+/BitCode-Testing/target.js
 
 NETWORK:
 *

@@ -1,5 +1,5 @@
 // see https://github.com/Microsoft/monaco-editor
 self.MonacoEnvironment = { 
-    baseUrl: "/" 
+    baseUrl: "/BitCode-Testing/" 
 };
-importScripts("/vs/base/worker/workerMain.js");
+importScripts("/BitCode-Testing/vs/base/worker/workerMain.js");

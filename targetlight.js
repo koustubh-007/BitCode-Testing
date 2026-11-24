@@ -6,6 +6,7 @@ var pxtTargetBundle = {
     "description": "A Blocks / JavaScript code editor for the micro:bit.",
     "corepkg": "core",
     "cloud": {
+        "apiRoot": "https://makecode.microbit.org/api/",
         "workspace": false,
         "packages": true,
         "sharing": true,

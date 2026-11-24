@@ -25,6 +25,7 @@ var pxtTargetBundle = {
         "libs/li-blocks-motor-mb"
     ],
     "cloud": {
+        "apiRoot": "https://makecode.microbit.org/api/",
         "workspace": false,
         "packages": true,
         "sharing": true,
